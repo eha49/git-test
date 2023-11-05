@@ -1,0 +1,2 @@
+This is another test file to see how to write
+the commit message differently.
